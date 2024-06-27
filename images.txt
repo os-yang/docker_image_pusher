@@ -8,3 +8,4 @@ python:alpine3.19
 grafana/loki:2.8.0
 grafana/promtail:2.8.0
 grafana/grafana:latest
+debian:bullseye-slim
