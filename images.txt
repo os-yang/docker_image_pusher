@@ -9,3 +9,4 @@ grafana/loki:2.8.0
 grafana/promtail:2.8.0
 grafana/grafana:latest
 debian:bullseye-slim
+gaiaadm/pumba
