@@ -11,3 +11,4 @@ grafana/grafana:latest
 debian:bullseye-slim
 gaiaadm/pumba
 gaiadocker/iproute2
+redis:latest
