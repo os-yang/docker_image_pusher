@@ -12,3 +12,4 @@ debian:bullseye-slim
 gaiaadm/pumba
 gaiadocker/iproute2
 redis:latest
+akkuman/headless-wps:latest
