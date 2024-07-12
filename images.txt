@@ -13,3 +13,4 @@ gaiaadm/pumba
 gaiadocker/iproute2
 redis:latest
 akkuman/headless-wps
+debian:bullseye-slim AS finally
