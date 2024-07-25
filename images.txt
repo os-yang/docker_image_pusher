@@ -12,5 +12,4 @@ debian:bullseye-slim
 gaiaadm/pumba
 gaiadocker/iproute2
 redis:latest
-debian:bullseye-slim AS finally
-xuxueli/xxl-mq-admin
+fiscoorg/fiscobcos:v3.6.0
