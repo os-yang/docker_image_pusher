@@ -13,3 +13,4 @@ gaiaadm/pumba
 gaiadocker/iproute2
 redis:latest
 fiscoorg/fiscobcos:v3.6.0
+guyongquan/webhook-adapter
