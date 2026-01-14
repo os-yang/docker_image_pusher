@@ -1,5 +1,19 @@
+#支持私库
+k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+xhofe/alist:latest
+#支持指定架构
+--platform=linux/arm64 xiaoyaliu/alist
+python:alpine3.19
+grafana/loki:2.8.0
+grafana/promtail:2.8.0
+grafana/grafana:latest
+debian:bullseye-slim
+gaiaadm/pumba
+gaiadocker/iproute2
+redis:latest
+fiscoorg/fiscobcos:v3.6.0
+guyongquan/webhook-adapter
 postgres:13
 redis:6
 hyperledger/cello-api-engine:latest
 hyperledger/cello-dashboard:latest
-hyperledger/cello-agent:latest
